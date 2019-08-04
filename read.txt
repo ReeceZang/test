@@ -1,4 +1,6 @@
 hello git!
 good morning!
 have lunch
-good luck to you!:
+good luck to you!
+goodbye
+
